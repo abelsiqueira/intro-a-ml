@@ -11,3 +11,4 @@ Material dos vídeos da minha [playlist](https://www.youtube.com/playlist?list=P
 - 05 [Tratamento e Visualização de Dados](pluto/tratamento-de-dados.jl)
 - 06 [Regularização Ridge e LASSO](pluto/regularizacao.jl)
 - 07 Regressão Logística partes [1](pluto/regressao-logistica.jl) e [2](pluto/regressao-logistica2.jl)
+- 08 Curva ROC e AUC partes [1](pluto/roc.jl) e [2](pluto/roc2.jl)
