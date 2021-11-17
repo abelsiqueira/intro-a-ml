@@ -13,3 +13,4 @@ Material dos vídeos da minha [playlist](https://www.youtube.com/playlist?list=P
 - 07 Regressão Logística partes [1](pluto/regressao-logistica.jl) e [2](pluto/regressao-logistica2.jl)
 - 08 Curva ROC e AUC partes [1](pluto/roc.jl) e [2](pluto/roc2.jl)
 - 09 Máquinas de Vetores Suporte (SVM) [linear](pluto/svm.jl) e [não linear](pluto/svm-nl.jl)
+- 10 [Naive Bayes](pluto/naive-bayes.jl)
