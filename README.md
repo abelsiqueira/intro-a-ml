@@ -14,3 +14,6 @@ Material dos vídeos da minha [playlist](https://www.youtube.com/playlist?list=P
 - 08 Curva ROC e AUC partes [1](pluto/roc.jl) e [2](pluto/roc2.jl)
 - 09 Máquinas de Vetores Suporte (SVM) [linear](pluto/svm.jl) e [não linear](pluto/svm-nl.jl)
 - 10 [Naive Bayes](pluto/naive-bayes.jl)
+- 11 [Árvore de Decisão](pluto/arvore.jl)
+- 12 [Floresta Aleatória](pluto/floresta.jl)
+- 13 [Otimização de Hiperparâmetros](pluto/hiperparametros.jl)
