@@ -17,3 +17,5 @@ Material dos vídeos da minha [playlist](https://www.youtube.com/playlist?list=P
 - 11 [Árvore de Decisão](pluto/arvore.jl)
 - 12 [Floresta Aleatória](pluto/floresta.jl)
 - 13 [Otimização de Hiperparâmetros](pluto/hiperparametros.jl)
+- 14 [Redes Neurais](pluto/redes-neurais.jl)
+- 15 [Gradiente Estocástico](pluto/gradiente-estocastico.jl)
