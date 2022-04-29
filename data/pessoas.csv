@@ -1,0 +1,1001 @@
+altura,cargo,estado,idade,nome,salario
+1.66,Estagiário,ES,40,Dusty Little,7300.0
+1.7,Analista de Dados,SP,46,Emile Bauch,21700.0
+1.72,Head,SP,44,Buffy Friesen,22900.0
+1.77,Gerente,RJ,44,Rueben Brown,19800.0
+1.7,Analista de Dados,ES,19,Jamal Braun,3400.0
+1.69,Analista de Dados,RJ,31,Haywood Steuber,7100.0
+1.7,Cientista de Dados,ES,29,Adam Dickinson,6600.0
+1.6,Head,PR,45,Sean Williamson,34000.0
+1.71,Cientista de Dados,PA,57,Daniel Metz,18900.0
+1.59,Analista de Dados,SP,18,Laurel Fadel,3200.0
+1.62,Analista de Dados,SP,35,Phillis Thompson,10400.0
+1.65,Cientista de Dados,PA,36,Brant Cummerata,10000.0
+1.67,Analista de Dados,PR,49,Aja Reichert,16300.0
+1.7,Cientista de Dados,ES,58,Eliseo Weissnat,31900.0
+1.78,Cientista de Dados,ES,25,Alla Larson,3400.0
+1.74,Estagiário,RJ,40,George Denesik,4600.0
+1.67,Gerente,PA,35,Andrew Becker,15700.0
+1.62,Gerente,PR,57,Lea Schroeder,48100.0
+1.64,Gerente,PR,56,Allen Parker,47600.0
+1.64,Analista de Dados,RJ,52,Harvey Torp,26000.0
+1.68,Gerente,RJ,23,Modesto Kulas,9000.0
+1.75,Analista de Dados,SP,58,Tristan Mosciski,22300.0
+1.65,Estagiário,BA,36,Agripina Sporer,3100.0
+1.67,Gerente,PR,48,Virgil Kiehn,25100.0
+1.67,Head,PA,25,Nicholas Schuster,23000.0
+1.72,Cientista de Dados,ES,55,Grace Kautzer,36200.0
+1.7,Analista de Dados,BA,57,Rob Lind,14700.0
+1.67,Gerente,SP,26,Dannie Corwin,11000.0
+1.62,Gerente,PR,20,Magen Skiles,11600.0
+1.66,Analista de Dados,RJ,54,Delmer MacGyver,31400.0
+1.74,Analista de Dados,RJ,31,Estrella Wuckert,4800.0
+1.69,Analista de Dados,PR,29,August Lang,5300.0
+1.76,Analista de Dados,PA,43,Carroll Watsica,7300.0
+1.69,Analista de Dados,BA,46,Jerrie Stark,10100.0
+1.73,Cientista de Dados,RJ,46,Otis Torphy,11100.0
+1.74,Gerente,BA,34,Ashley Zboncak,16700.0
+1.69,Analista de Dados,RJ,26,Freddie Shields,5000.0
+1.8,Analista de Dados,RJ,58,Patrina Krajcik,26500.0
+1.65,Head,PR,47,Thaddeus Nitzsche,25800.0
+1.76,Gerente,SP,20,Consuela Kling,11100.0
+1.67,Gerente,BA,24,Dylan Bayer,10700.0
+1.72,Estagiário,BA,52,Kasey Friesen,14200.0
+1.64,Cientista de Dados,PR,50,Vannesa Skiles,24300.0
+1.76,Gerente,BA,47,Desmond Parisian,25000.0
+1.74,Gerente,SP,40,Stacy Schumm,22000.0
+1.6,Analista de Dados,PA,24,Ina McKenzie,3800.0
+1.68,Head,PA,42,Blaine Runolfsdottir,29100.0
+1.72,Analista de Dados,RJ,30,Eduardo Block,5400.0
+1.67,Analista de Dados,BA,29,Blondell Mraz,5200.0
+1.69,Cientista de Dados,BA,20,Noel Hilll,3400.0
+1.67,Analista de Dados,RJ,20,Ali Beatty,3900.0
+1.78,Estagiário,PA,24,Tiffani Medhurst,1700.0
+1.63,Cientista de Dados,ES,33,Monet Balistreri,8800.0
+1.73,Analista de Dados,RJ,25,German Dietrich,4600.0
+1.78,Head,SP,40,Sima Turcotte,26900.0
+1.69,Analista de Dados,SP,50,Chance Little,16500.0
+1.62,Gerente,SP,57,Russell Ondricka,20200.0
+1.64,Analista de Dados,PA,45,Nathalie Mraz,21600.0
+1.73,Cientista de Dados,PR,57,Willette Wintheiser,29900.0
+1.62,Cientista de Dados,SP,27,Sacha Keebler,5100.0
+1.63,Cientista de Dados,PA,56,Hershel Klocko,12900.0
+1.62,Gerente,RJ,47,Brooks DuBuque,20700.0
+1.75,Gerente,ES,50,Mireya Nolan,16700.0
+1.71,Gerente,SP,46,Willis Gutkowski,16100.0
+1.64,Gerente,SP,34,Terry Moore,17800.0
+1.64,Cientista de Dados,PR,56,Lyndon Wolff,27300.0
+1.67,Cientista de Dados,PA,56,Meg Hilll,20100.0
+1.58,Analista de Dados,PA,53,Golden Littel,27200.0
+1.78,Analista de Dados,RJ,40,Samual Lang,8300.0
+1.69,Estagiário,PR,26,Jordan Sanford,2500.0
+1.75,Cientista de Dados,PA,24,Katharina Keeling,3900.0
+1.78,Analista de Dados,RJ,49,Darcie Kohler,11900.0
+1.79,Head,RJ,19,Rosena Jakubowski,20400.0
+1.73,Analista de Dados,SP,41,Xavier Anderson,16600.0
+1.65,Head,PR,33,Ruben Walter,25700.0
+1.73,Cientista de Dados,SP,25,Rebbeca Leuschke,5000.0
+1.64,Estagiário,PR,55,Lane Zieme,26800.0
+1.61,Gerente,BA,56,Brian Christiansen,45000.0
+1.76,Analista de Dados,BA,33,Rudy Cronin,8100.0
+1.78,Cientista de Dados,BA,23,Lloyd Lind,4800.0
+1.78,Cientista de Dados,ES,47,Theodore Marvin,11000.0
+1.68,Analista de Dados,PA,28,Lavina Flatley,4800.0
+1.67,Cientista de Dados,ES,51,Mika Labadie,11600.0
+1.65,Cientista de Dados,PA,49,Logan Hahn,9500.0
+1.79,Head,PR,36,Shantae Borer,24300.0
+1.76,Gerente,PA,47,Shena Goodwin,27900.0
+1.74,Head,ES,25,Kara Mertz,19000.0
+1.64,Cientista de Dados,PA,21,Cary Conroy,3800.0
+1.63,Estagiário,BA,33,Numbers Jakubowski,2700.0
+1.65,Estagiário,ES,48,Kyra Torp,15900.0
+1.7,Analista de Dados,SP,23,Arcelia Waelchi,3100.0
+1.83,Head,SP,39,Jillian Gusikowski,21200.0
+1.77,Estagiário,RJ,21,Yong Hudson,1700.0
+1.65,Analista de Dados,RJ,19,Melanie Willms,3000.0
+1.69,Cientista de Dados,PA,50,Danika Lowe,15400.0
+1.66,Analista de Dados,RJ,46,Luke Daniel,20300.0
+1.65,Gerente,PA,21,Nathanial Huels,11900.0
+1.64,Cientista de Dados,RJ,51,Young McLaughlin,25400.0
+1.64,Cientista de Dados,SP,48,Reed Dach,11200.0
+1.74,Analista de Dados,ES,29,Brendan Schamberger,5200.0
+1.74,Analista de Dados,SP,27,Nolan Krajcik,4200.0
+1.64,Analista de Dados,PR,34,Evette Fahey,6900.0
+1.69,Cientista de Dados,ES,32,Alisia Pfeffer,5800.0
+1.68,Estagiário,SP,42,Forest Schultz,5200.0
+1.65,Analista de Dados,RJ,43,Homer Lueilwitz,9700.0
+1.66,Head,BA,40,Shawn Quigley,33600.0
+1.82,Estagiário,PR,45,Darell Langosh,12000.0
+1.71,Cientista de Dados,SP,18,Damon Kuvalis,4800.0
+1.74,Analista de Dados,BA,53,Sari Spencer,19600.0
+1.74,Gerente,BA,33,Maynard Franecki,17200.0
+1.74,Gerente,ES,42,Belinda Schuppe,24200.0
+1.64,Head,RJ,37,Lon Leannon,30000.0
+1.63,Analista de Dados,ES,25,Joel Kulas,4100.0
+1.74,Analista de Dados,PR,50,Walker Upton,25400.0
+1.71,Estagiário,ES,51,Rosalva Heathcote,20500.0
+1.73,Cientista de Dados,PA,56,Lennie Nienow,27100.0
+1.62,Analista de Dados,ES,53,Lillia Waters,23500.0
+1.72,Analista de Dados,ES,47,Dane Leuschke,24300.0
+1.63,Analista de Dados,ES,43,Joann Casper,7000.0
+1.76,Head,PR,41,Cassandra Kshlerin,32700.0
+1.69,Analista de Dados,RJ,33,Kelly Schinner,8900.0
+1.8,Analista de Dados,BA,33,Lionel Leannon,8100.0
+1.81,Analista de Dados,PA,51,Elden Jacobi,19200.0
+1.62,Analista de Dados,RJ,38,Patrice Lesch,13200.0
+1.76,Analista de Dados,BA,50,Fabian Koepp,29100.0
+1.7,Cientista de Dados,SP,23,Christene Quigley,4000.0
+1.69,Cientista de Dados,RJ,31,Shantay Ebert,6500.0
+1.85,Cientista de Dados,ES,24,Jame Pouros,4100.0
+1.7,Estagiário,PA,58,Dario Macejkovic,39100.0
+1.68,Gerente,RJ,55,Philomena Kihn,35800.0
+1.8,Gerente,BA,45,Terence West,25300.0
+1.78,Analista de Dados,BA,41,Pat McCullough,15800.0
+1.77,Cientista de Dados,BA,57,Daina Fritsch,19200.0
+1.78,Cientista de Dados,PR,27,Johnathon Spinka,4400.0
+1.66,Gerente,PA,31,Ferne McLaughlin,14200.0
+1.59,Analista de Dados,PA,31,Noah Davis,5200.0
+1.66,Gerente,PA,36,Jewel Gislason,15800.0
+1.72,Gerente,BA,42,Israel Ernser,21100.0
+1.76,Cientista de Dados,RJ,22,Denver Becker,3800.0
+1.65,Analista de Dados,BA,41,Corrinne Bins,5900.0
+1.67,Cientista de Dados,BA,26,Tom Pagac,5700.0
+1.68,Analista de Dados,BA,36,Cristopher Carroll,5800.0
+1.74,Cientista de Dados,SP,47,Kandice Lakin,14700.0
+1.62,Head,SP,29,Mozella Blick,23400.0
+1.62,Gerente,SP,28,Ethelyn Huel,11200.0
+1.76,Analista de Dados,SP,29,Tommie Stroman,5000.0
+1.69,Estagiário,PR,37,Rusty Orn,7300.0
+1.81,Head,PA,51,James Boyle,39200.0
+1.78,Analista de Dados,ES,23,Terri Daniel,3400.0
+1.76,Cientista de Dados,PA,25,Avery Marvin,5000.0
+1.7,Analista de Dados,SP,36,Shu Ullrich,6800.0
+1.63,Cientista de Dados,PA,54,Mindi Hackett,25200.0
+1.76,Cientista de Dados,ES,54,Mohammed Beer,25100.0
+1.64,Cientista de Dados,ES,19,Savanna Abshire,4400.0
+1.64,Cientista de Dados,SP,26,Mertie Larkin,6400.0
+1.77,Cientista de Dados,SP,40,Daisey Cronin,11900.0
+1.63,Cientista de Dados,RJ,34,Kent Conroy,10500.0
+1.63,Analista de Dados,SP,25,Josue Weimann,4200.0
+1.67,Estagiário,BA,45,Charla Johns,16400.0
+1.64,Cientista de Dados,PR,34,Kristian Gaylord,9600.0
+1.69,Analista de Dados,RJ,33,Ramiro MacGyver,8500.0
+1.6,Head,ES,38,Leisha Schaefer,26200.0
+1.64,Cientista de Dados,BA,52,Hipolito Kohler,16600.0
+1.77,Analista de Dados,RJ,24,Clay Kuhlman,5000.0
+1.72,Gerente,ES,57,Zachery Effertz,19800.0
+1.77,Analista de Dados,PR,31,Jarrett Paucek,7600.0
+1.65,Cientista de Dados,SP,21,Breanna Gerlach,3800.0
+1.7,Gerente,BA,46,Adan Schinner,28500.0
+1.63,Cientista de Dados,PA,35,Dorene Zemlak,5500.0
+1.76,Gerente,RJ,54,Merrill Durgan,25500.0
+1.8,Analista de Dados,PR,38,Andrea Hoeger,10500.0
+1.64,Cientista de Dados,ES,27,Linette Zemlak,4400.0
+1.69,Analista de Dados,PA,53,Homer Ratke,12300.0
+1.79,Cientista de Dados,SP,45,Enid Graham,21400.0
+1.65,Cientista de Dados,ES,48,Simone Hills,14400.0
+1.66,Analista de Dados,SP,23,Adaline McKenzie,3900.0
+1.64,Cientista de Dados,BA,42,Napoleon Langworth,9300.0
+1.74,Analista de Dados,PR,26,Sanford Littel,3900.0
+1.69,Gerente,SP,34,Yulanda Barton,14300.0
+1.71,Cientista de Dados,PA,23,Bethel Jacobson,4000.0
+1.8,Analista de Dados,BA,32,Samual Jast,4700.0
+1.63,Cientista de Dados,RJ,39,Lemuel Jones,8200.0
+1.6,Cientista de Dados,PR,49,Mckinley Rempel,17000.0
+1.8,Analista de Dados,ES,46,Richard Corkery,13300.0
+1.8,Cientista de Dados,PA,44,Luvenia Treutel,11500.0
+1.63,Gerente,BA,39,Craig Aufderhar,22100.0
+1.81,Head,PA,57,Cecil Crona,50600.0
+1.74,Cientista de Dados,ES,26,Shayne Hettinger,5000.0
+1.64,Head,RJ,49,Frida Thompson,34300.0
+1.58,Cientista de Dados,BA,32,Athena Crist,5600.0
+1.79,Head,PR,46,Leonard Spencer,34500.0
+1.77,Analista de Dados,ES,37,Lyndia Anderson,8400.0
+1.68,Gerente,PA,50,Cheree Harris,18600.0
+1.77,Gerente,ES,39,Yasuko Rohan,19100.0
+1.72,Cientista de Dados,RJ,55,Chance Schowalter,15300.0
+1.61,Cientista de Dados,RJ,48,Sherie Jaskolski,22400.0
+1.69,Analista de Dados,ES,32,Brent Kuhn,4700.0
+1.76,Cientista de Dados,RJ,30,Jasmin Parisian,5600.0
+1.7,Cientista de Dados,RJ,21,Ismael Nienow,4200.0
+1.63,Estagiário,ES,51,Jimmie Shields,7500.0
+1.82,Estagiário,BA,49,Erik Heidenreich,25000.0
+1.8,Analista de Dados,PA,40,Carin Hane,14600.0
+1.75,Cientista de Dados,RJ,53,Lazaro Rosenbaum,12800.0
+1.64,Analista de Dados,RJ,54,Maud Braun,13200.0
+1.66,Head,PR,26,Annetta Howell,18800.0
+1.65,Cientista de Dados,PR,21,Alvin Kuhn,4100.0
+1.76,Cientista de Dados,RJ,43,Dan Brekke,14100.0
+1.59,Analista de Dados,RJ,46,Benny Treutel,8600.0
+1.67,Estagiário,ES,31,Nila Padberg,2700.0
+1.77,Analista de Dados,SP,40,Norman Stoltenberg,8100.0
+1.61,Estagiário,ES,19,Lori Considine,1500.0
+1.75,Analista de Dados,ES,57,Riley Hyatt,18600.0
+1.73,Cientista de Dados,BA,35,Albina Monahan,10000.0
+1.69,Estagiário,RJ,58,Ruth Hammes,35100.0
+1.65,Gerente,PA,42,Kasey Mayer,20500.0
+1.63,Gerente,PR,53,Bao Hettinger,24700.0
+1.66,Analista de Dados,ES,53,Natasha Breitenberg,29600.0
+1.63,Gerente,PR,46,Willia Barton,26700.0
+1.7,Analista de Dados,RJ,23,Henry Mante,3700.0
+1.8,Cientista de Dados,PA,56,Kacey Konopelski,13800.0
+1.65,Analista de Dados,RJ,38,Gianna Gorczany,7400.0
+1.71,Analista de Dados,PR,40,Judson Will,5700.0
+1.67,Analista de Dados,ES,43,Everette Nikolaus,14000.0
+1.81,Gerente,PA,48,Brain Graham,22000.0
+1.76,Cientista de Dados,SP,55,Brett Kihn,16500.0
+1.65,Cientista de Dados,PA,38,Simon Stroman,7700.0
+1.82,Gerente,BA,23,Mina Thompson,12900.0
+1.75,Analista de Dados,PA,47,Zack Gutkowski,22900.0
+1.64,Gerente,PR,23,Piedad Armstrong,11600.0
+1.64,Analista de Dados,PR,35,Charis Thiel,5400.0
+1.77,Gerente,PR,21,Miguel Mosciski,10300.0
+1.68,Head,SP,49,Freddy Rutherford,29400.0
+1.64,Analista de Dados,ES,56,Abby Anderson,11300.0
+1.69,Analista de Dados,BA,58,Neville Wyman,29800.0
+1.78,Cientista de Dados,PR,45,German Ullrich,18900.0
+1.75,Cientista de Dados,RJ,37,Rashad Keeling,11500.0
+1.79,Analista de Dados,BA,28,Wesley Goldner,4000.0
+1.6,Gerente,PA,56,Hollis Kris,32600.0
+1.62,Analista de Dados,BA,33,Trinidad Rippin,8200.0
+1.79,Gerente,PA,22,Trinidad Baumbach,11100.0
+1.68,Estagiário,ES,36,Emery Rau,5600.0
+1.77,Estagiário,RJ,58,Summer Wilderman,21500.0
+1.82,Head,RJ,28,Joesph Renner,24200.0
+1.67,Analista de Dados,BA,38,Tonja Hermann,9800.0
+1.65,Gerente,ES,34,Jonathan Conroy,13700.0
+1.62,Estagiário,SP,30,Jackson Marquardt,2800.0
+1.68,Gerente,PR,56,Kiyoko Kunze,36800.0
+1.73,Cientista de Dados,PR,42,Grover Auer,18000.0
+1.7,Cientista de Dados,ES,53,Nicki Johns,12600.0
+1.65,Cientista de Dados,BA,33,Carlena Hermiston,6300.0
+1.79,Gerente,BA,35,Rocco Bosco,11700.0
+1.63,Head,PR,30,Lavenia Dickinson,21800.0
+1.74,Head,PR,44,Micheline Will,29000.0
+1.65,Estagiário,RJ,36,Cleveland Ratke,8800.0
+1.69,Gerente,PA,40,Warner Sawayn,19800.0
+1.71,Cientista de Dados,PR,47,Evon Wilderman,13800.0
+1.65,Head,SP,51,Glennis Fahey,46900.0
+1.61,Analista de Dados,PR,51,Tanesha Gorczany,24600.0
+1.63,Cientista de Dados,RJ,24,Ilse Greenfelder,4300.0
+1.68,Cientista de Dados,BA,19,Cora Green,3100.0
+1.64,Estagiário,RJ,49,Genoveva Kub,25500.0
+1.65,Cientista de Dados,BA,47,Coletta Volkman,14500.0
+1.62,Estagiário,PR,48,Delbert Prosacco,16900.0
+1.7,Estagiário,PA,19,Cyril Thiel,1500.0
+1.73,Gerente,PR,31,Winona Dibbert,10800.0
+1.71,Estagiário,PR,33,Sandi Armstrong,4500.0
+1.76,Gerente,PR,41,Thomas Ernser,20500.0
+1.65,Gerente,PA,35,Francis Gleason,18500.0
+1.69,Analista de Dados,PA,25,Junior Dickens,3500.0
+1.68,Cientista de Dados,RJ,54,Towanda Monahan,22700.0
+1.69,Cientista de Dados,SP,20,Annice Lind,4500.0
+1.65,Analista de Dados,PR,50,Elwanda Stiedemann,11600.0
+1.71,Cientista de Dados,SP,50,Calista Zemlak,21900.0
+1.75,Gerente,RJ,49,Clayton Zulauf,16200.0
+1.77,Gerente,PR,39,Edward Gleichner,13700.0
+1.68,Analista de Dados,RJ,19,Sheree Bode,3300.0
+1.67,Analista de Dados,PA,27,Theron Rau,4700.0
+1.63,Estagiário,ES,57,Oscar Trantow,35700.0
+1.66,Analista de Dados,PR,26,Clorinda Huels,5200.0
+1.71,Analista de Dados,ES,23,Ivonne McLaughlin,4000.0
+1.64,Gerente,ES,56,Ricky Skiles,35000.0
+1.71,Cientista de Dados,RJ,48,Rosalie Pouros,17200.0
+1.69,Cientista de Dados,ES,30,Errol Keeling,6500.0
+1.64,Gerente,SP,21,Eugene Durgan,10000.0
+1.66,Estagiário,BA,41,Casey Carter,10200.0
+1.76,Cientista de Dados,ES,29,Kitty Dibbert,6900.0
+1.66,Cientista de Dados,PR,50,Ailene Reilly,24200.0
+1.7,Cientista de Dados,RJ,35,Santo Koepp,6700.0
+1.67,Cientista de Dados,PR,25,Leonel Schulist,4100.0
+1.78,Cientista de Dados,PA,32,Vasiliki Terry,8500.0
+1.66,Analista de Dados,PR,21,Edgardo Kunde,3400.0
+1.66,Gerente,ES,39,Josef Kutch,19800.0
+1.7,Cientista de Dados,PA,35,Nakisha Okuneva,8100.0
+1.7,Cientista de Dados,PR,22,Carita Hintz,4200.0
+1.79,Analista de Dados,SP,25,Marylin Heathcote,4100.0
+1.71,Cientista de Dados,BA,36,Emily O'Keefe,8400.0
+1.66,Estagiário,ES,37,Zofia Osinski,3700.0
+1.76,Cientista de Dados,BA,52,Dan Sporer,31100.0
+1.6,Head,PA,50,Iola Sanford,41300.0
+1.7,Gerente,SP,54,Abel Harber,21700.0
+1.74,Analista de Dados,ES,43,Erich Upton,11100.0
+1.68,Analista de Dados,SP,47,Les Nikolaus,24600.0
+1.64,Head,ES,58,Booker Hills,35700.0
+1.82,Cientista de Dados,ES,25,Isobel Runolfsson,5500.0
+1.61,Gerente,SP,46,Tran Johnston,29900.0
+1.75,Head,BA,36,Will Mills,27200.0
+1.73,Cientista de Dados,ES,36,Jackelyn Stokes,9900.0
+1.73,Head,PR,46,Jacque Bednar,22100.0
+1.7,Analista de Dados,PA,32,Lonnie Kessler,8400.0
+1.64,Gerente,BA,45,Vernice O'Conner,19200.0
+1.69,Cientista de Dados,PA,23,Magnolia Hansen,5100.0
+1.67,Gerente,BA,24,Lucila Cormier,12000.0
+1.64,Analista de Dados,RJ,18,Damien Effertz,3200.0
+1.67,Analista de Dados,PA,36,Malik Prosacco,9200.0
+1.63,Cientista de Dados,SP,52,Erlinda Daniel,9800.0
+1.71,Estagiário,PA,24,Chong Muller,2100.0
+1.64,Gerente,RJ,33,Alan Schmidt,11700.0
+1.76,Analista de Dados,PR,58,Laronda Barrows,35400.0
+1.72,Analista de Dados,PR,53,Teddy O'Reilly,33700.0
+1.74,Cientista de Dados,PR,26,Keila Will,5000.0
+1.73,Cientista de Dados,SP,31,Catherina Reichel,7400.0
+1.67,Cientista de Dados,SP,53,Demarcus Smitham,22700.0
+1.72,Gerente,PR,53,Virgil Parisian,41800.0
+1.65,Cientista de Dados,PA,42,Dustin Walker,11900.0
+1.64,Analista de Dados,BA,34,Rickey MacGyver,5900.0
+1.65,Analista de Dados,PR,23,Samella Schmitt,3600.0
+1.65,Gerente,PR,44,Jerrold Rath,24800.0
+1.63,Analista de Dados,PR,20,Elmira Prohaska,3600.0
+1.69,Gerente,ES,40,Lilla Barton,23000.0
+1.64,Cientista de Dados,BA,48,Yuri O'Connell,8900.0
+1.73,Head,ES,31,Petrina Koelpin,24500.0
+1.77,Head,SP,28,Levi Goyette,18800.0
+1.73,Analista de Dados,SP,23,Amos Crist,3700.0
+1.74,Cientista de Dados,BA,23,Devin Hayes,4400.0
+1.76,Analista de Dados,PR,34,Isaac Nienow,5800.0
+1.63,Analista de Dados,RJ,18,Clifton Dicki,3400.0
+1.66,Analista de Dados,PR,36,Peggy Hyatt,7000.0
+1.71,Estagiário,PR,22,Eugene Jacobson,1900.0
+1.6,Gerente,PR,55,Quentin Willms,30400.0
+1.67,Cientista de Dados,PR,38,Leon Shields,13000.0
+1.66,Gerente,SP,33,Arlette Lang,12500.0
+1.7,Cientista de Dados,RJ,22,Winford Durgan,4000.0
+1.72,Cientista de Dados,PR,32,Dee Heathcote,5600.0
+1.66,Gerente,ES,26,Stacy Willms,12500.0
+1.66,Head,BA,57,Eloise Kulas,31900.0
+1.72,Cientista de Dados,BA,44,Malcolm MacGyver,7100.0
+1.75,Cientista de Dados,ES,45,Laura Quitzon,9300.0
+1.65,Analista de Dados,BA,55,Kellee Roob,17100.0
+1.63,Gerente,BA,56,Sun Funk,44200.0
+1.71,Cientista de Dados,BA,35,Willian O'Hara,7900.0
+1.75,Gerente,BA,52,Tyesha Hackett,21000.0
+1.81,Head,RJ,54,Catalina Rolfson,36800.0
+1.74,Head,RJ,18,Courtney Blick,20600.0
+1.62,Analista de Dados,PA,43,Juan Crona,11000.0
+1.77,Gerente,PR,44,Reginald Veum,17100.0
+1.63,Estagiário,ES,25,Waldo Monahan,1800.0
+1.74,Estagiário,SP,20,Suzanne Rice,1500.0
+1.8,Cientista de Dados,ES,32,Olimpia Boehm,7900.0
+1.6,Analista de Dados,RJ,19,Allie Dickinson,3200.0
+1.62,Analista de Dados,SP,47,Herman Hammes,24100.0
+1.69,Cientista de Dados,ES,40,Bebe Murray,7700.0
+1.67,Estagiário,SP,46,Milissa Moore,8600.0
+1.64,Analista de Dados,SP,24,Mia Beahan,4000.0
+1.78,Analista de Dados,BA,40,Malvina Lueilwitz,15200.0
+1.7,Cientista de Dados,BA,19,Ashley Thompson,4000.0
+1.79,Head,PR,24,Mac Ziemann,21000.0
+1.69,Analista de Dados,SP,40,Mason Lehner,5900.0
+1.65,Gerente,PA,51,Monet Cormier,34700.0
+1.64,Head,PR,26,Timmy Johnson,21500.0
+1.66,Gerente,PR,40,Barrett Weimann,16700.0
+1.75,Cientista de Dados,RJ,29,Eloise McGlynn,4600.0
+1.6,Cientista de Dados,RJ,37,Alfonso Schoen,11900.0
+1.65,Cientista de Dados,SP,47,Ron Zboncak,10400.0
+1.78,Analista de Dados,BA,22,Elisa Gerhold,3800.0
+1.78,Cientista de Dados,BA,26,Quincy Rempel,6000.0
+1.69,Gerente,SP,39,Temeka Schultz,15400.0
+1.71,Analista de Dados,PA,28,Oliver Crona,5900.0
+1.64,Gerente,PR,45,Francina Auer,23900.0
+1.66,Gerente,SP,27,Bettye Crooks,12900.0
+1.73,Estagiário,PR,49,Juliann Spinka,10600.0
+1.63,Gerente,PR,21,Delmar McClure,11100.0
+1.64,Cientista de Dados,PA,35,Issac Gleason,11600.0
+1.68,Head,SP,33,Luciana Rempel,21300.0
+1.7,Analista de Dados,SP,20,Antoine Armstrong,3800.0
+1.65,Gerente,SP,54,Herminia Wolf,39500.0
+1.63,Analista de Dados,PA,55,Sam Koelpin,15000.0
+1.65,Estagiário,ES,46,Junko Turcotte,19100.0
+1.66,Cientista de Dados,PR,42,Georgina Murazik,12400.0
+1.82,Estagiário,PR,52,Monroe Huel,21200.0
+1.61,Gerente,BA,50,Erasmo Rodriguez,25400.0
+1.65,Estagiário,ES,41,Bunny Nikolaus,5200.0
+1.73,Estagiário,RJ,23,Rochelle Dickinson,2000.0
+1.72,Gerente,RJ,25,Dexter Schulist,12600.0
+1.63,Cientista de Dados,BA,41,Kenyatta Romaguera,16500.0
+1.76,Analista de Dados,PA,37,Jenny Baumbach,10600.0
+1.76,Analista de Dados,BA,58,Donte Rippin,32600.0
+1.73,Analista de Dados,PR,29,Nannie Shanahan,6900.0
+1.76,Analista de Dados,PA,38,Lenard Feil,6600.0
+1.66,Cientista de Dados,BA,28,Cindy Roob,4000.0
+1.72,Head,PA,48,Roy Moore,26000.0
+1.68,Head,SP,25,Renato Morar,20800.0
+1.66,Analista de Dados,ES,23,Adan Leffler,4100.0
+1.64,Analista de Dados,ES,23,Jefferson Kautzer,4300.0
+1.84,Analista de Dados,SP,49,Hugo Jacobson,20000.0
+1.75,Analista de Dados,PR,21,Cammie Halvorson,3000.0
+1.72,Head,SP,55,Leandro Hane,44700.0
+1.66,Cientista de Dados,SP,52,Diego Beahan,23900.0
+1.65,Gerente,BA,35,Adina Gleichner,18400.0
+1.7,Analista de Dados,SP,34,Louisa Hilpert,9200.0
+1.62,Analista de Dados,SP,47,Isaac Purdy,9800.0
+1.65,Analista de Dados,PR,35,Seth Rutherford,5000.0
+1.77,Cientista de Dados,PR,20,Romana Gutmann,4400.0
+1.81,Head,PR,18,Kerry Legros,18000.0
+1.63,Analista de Dados,ES,47,Kiara McKenzie,14600.0
+1.8,Estagiário,ES,55,Thomasine Schaefer,9000.0
+1.61,Cientista de Dados,RJ,50,Craig Mueller,11000.0
+1.72,Cientista de Dados,ES,45,Randal Lynch,13100.0
+1.71,Analista de Dados,ES,25,Gavin Tromp,4100.0
+1.74,Analista de Dados,PA,21,Teddy Ernser,4000.0
+1.68,Analista de Dados,RJ,38,Morgan Schoen,6700.0
+1.79,Gerente,PR,23,Shayne Lemke,10400.0
+1.61,Cientista de Dados,BA,48,Tobi Swaniawski,17900.0
+1.66,Analista de Dados,SP,33,Mickie Aufderhar,8200.0
+1.64,Cientista de Dados,PR,48,Lennie Abshire,11800.0
+1.77,Head,BA,35,Herman Langworth,25600.0
+1.7,Gerente,ES,23,Marcellus Huels,12300.0
+1.83,Analista de Dados,SP,42,Jimmie Jaskolski,8000.0
+1.63,Cientista de Dados,PR,33,Walter Botsford,9400.0
+1.77,Cientista de Dados,SP,40,Justin Nader,11300.0
+1.71,Gerente,PA,18,Kendall Schroeder,11600.0
+1.77,Analista de Dados,RJ,24,Elfriede Medhurst,4200.0
+1.75,Gerente,RJ,20,Laticia Gaylord,9300.0
+1.69,Cientista de Dados,PR,23,Mallie Aufderhar,5200.0
+1.66,Analista de Dados,PR,29,Otto Veum,5400.0
+1.8,Cientista de Dados,BA,21,Darrel Connelly,4000.0
+1.66,Analista de Dados,BA,40,Edgardo Reynolds,11700.0
+1.72,Head,PR,42,Gail Barrows,26600.0
+1.74,Analista de Dados,BA,26,Larry Cole,3800.0
+1.66,Head,PA,52,Francesco Aufderhar,39100.0
+1.78,Head,RJ,25,Andres Treutel,22600.0
+1.66,Cientista de Dados,PA,27,Leonardo Labadie,4500.0
+1.68,Gerente,BA,32,Jesica Simonis,16100.0
+1.66,Cientista de Dados,RJ,50,Benjamin Botsford,16400.0
+1.72,Gerente,SP,28,Vergie Robel,13300.0
+1.62,Gerente,SP,43,Gregoria Kling,13300.0
+1.63,Gerente,BA,23,Renita Heller,11000.0
+1.77,Analista de Dados,SP,29,Lajuana Cummerata,6400.0
+1.67,Cientista de Dados,RJ,20,Arlena Wyman,4800.0
+1.75,Analista de Dados,PR,33,Kimberli Bogisich,5100.0
+1.69,Cientista de Dados,RJ,37,Maranda McGlynn,10300.0
+1.69,Analista de Dados,BA,52,Leo Quitzon,21900.0
+1.64,Analista de Dados,PA,35,Casey Sawayn,5600.0
+1.83,Gerente,SP,25,Rudolf Lindgren,12100.0
+1.66,Analista de Dados,PR,27,Keenan Koss,3900.0
+1.63,Analista de Dados,BA,26,Mckinley Kunze,4800.0
+1.64,Estagiário,PA,29,Raeann Wuckert,4200.0
+1.76,Estagiário,ES,18,Rufina Zulauf,1500.0
+1.63,Cientista de Dados,PR,51,Miguelina Heaney,17900.0
+1.76,Head,BA,55,Suk Schulist,35600.0
+1.75,Cientista de Dados,BA,26,Lane Mohr,4300.0
+1.76,Gerente,ES,41,Alexandra Dicki,20400.0
+1.63,Gerente,BA,29,Rey Kling,12300.0
+1.62,Head,ES,54,Clayton Mosciski,52900.0
+1.68,Cientista de Dados,ES,31,Hobert Christiansen,6800.0
+1.78,Cientista de Dados,SP,41,Taunya Armstrong,16000.0
+1.71,Analista de Dados,PR,19,Jacalyn Paucek,3600.0
+1.63,Analista de Dados,BA,28,Emilia Ward,4600.0
+1.66,Head,ES,33,Travis Yost,22200.0
+1.76,Cientista de Dados,PR,51,Yael Kertzmann,19000.0
+1.72,Analista de Dados,BA,32,Terrell Davis,4700.0
+1.63,Gerente,RJ,29,Renae Stracke,14100.0
+1.7,Estagiário,BA,39,Rolland Hodkiewicz,7700.0
+1.76,Cientista de Dados,RJ,58,Anton Gerhold,42000.0
+1.74,Cientista de Dados,SP,51,Krystina Rath,21200.0
+1.77,Gerente,SP,47,Valeria Auer,31800.0
+1.71,Cientista de Dados,BA,53,Yoshiko Balistreri,19800.0
+1.68,Gerente,RJ,38,Wiley Price,19100.0
+1.76,Cientista de Dados,ES,29,Lonnie Hirthe,5400.0
+1.7,Head,ES,36,Carlota Pacocha,25700.0
+1.65,Cientista de Dados,PR,20,Renita Kertzmann,3100.0
+1.66,Head,RJ,52,Barney Ziemann,52800.0
+1.69,Cientista de Dados,SP,45,Oralee Hoppe,21300.0
+1.7,Estagiário,PR,44,Chauncey Lubowitz,18100.0
+1.67,Analista de Dados,ES,41,Louann Bosco,12100.0
+1.6,Cientista de Dados,SP,43,Stephan Ledner,19500.0
+1.73,Estagiário,PR,57,Aide Carter,39500.0
+1.82,Cientista de Dados,PR,40,Viviana Bogan,8100.0
+1.72,Analista de Dados,ES,31,Claudio Gottlieb,6800.0
+1.7,Analista de Dados,ES,42,Gilbert Beier,16800.0
+1.6,Head,BA,53,Annika Block,34700.0
+1.65,Analista de Dados,BA,41,Chong Sanford,11200.0
+1.61,Analista de Dados,RJ,46,Gay Bogisich,19700.0
+1.68,Gerente,SP,48,Jesenia Herzog,19700.0
+1.69,Cientista de Dados,BA,26,Lavette Anderson,5400.0
+1.66,Cientista de Dados,ES,24,Wade Swaniawski,4800.0
+1.69,Analista de Dados,ES,24,Seema Bruen,3900.0
+1.73,Analista de Dados,ES,46,Diego Senger,18100.0
+1.67,Cientista de Dados,PR,29,Felecia Goodwin,5700.0
+1.67,Estagiário,PR,57,Antwan Harris,22000.0
+1.71,Gerente,PA,34,Deborah Ernser,13200.0
+1.66,Gerente,ES,39,Clemente Hodkiewicz,22300.0
+1.63,Cientista de Dados,ES,29,Lionel Krajcik,5200.0
+1.67,Analista de Dados,ES,22,Victor Leannon,2900.0
+1.69,Diretor,BA,27,Bill Schoen,49000.0
+1.63,Analista de Dados,SP,31,Lyda Shields,4400.0
+1.83,Gerente,RJ,53,Allan Stanton,18700.0
+1.72,Cientista de Dados,PR,22,Gerda Hickle,3900.0
+1.71,Cientista de Dados,PA,37,Yong Luettgen,8800.0
+1.77,Estagiário,ES,38,Laquanda Lakin,8300.0
+1.6,Cientista de Dados,RJ,39,Jaunita O'Reilly,12900.0
+1.67,Analista de Dados,SP,43,Esteban Berge,16400.0
+1.69,Gerente,ES,58,Ryan Oberbrunner,21100.0
+1.64,Cientista de Dados,BA,47,Mohamed Mitchell,24000.0
+1.58,Gerente,RJ,36,Virgie Connelly,15200.0
+1.79,Gerente,ES,19,Joaquin Gerlach,9800.0
+1.73,Cientista de Dados,SP,55,Sonya Mertz,18700.0
+1.77,Cientista de Dados,PR,54,Jeneva Bernhard,20500.0
+1.8,Estagiário,SP,35,Wes Klocko,3100.0
+1.63,Estagiário,SP,42,Daphne Welch,4400.0
+1.76,Cientista de Dados,RJ,43,Xuan Wisoky,13000.0
+1.78,Cientista de Dados,RJ,34,Walker Pouros,9900.0
+1.75,Gerente,PR,20,Clemente Stamm,9800.0
+1.63,Cientista de Dados,BA,35,Lauren Gibson,9000.0
+1.67,Cientista de Dados,RJ,49,Bernardo Schinner,19800.0
+1.66,Cientista de Dados,PR,42,Rolando Skiles,12700.0
+1.58,Cientista de Dados,RJ,48,Nicholas Lueilwitz,13000.0
+1.66,Estagiário,SP,45,Jefferey Walter,15400.0
+1.76,Gerente,PA,34,Lindy Leffler,17200.0
+1.65,Analista de Dados,PA,54,Armando Waelchi,21700.0
+1.6,Cientista de Dados,BA,56,Omer Spencer,23000.0
+1.72,Head,BA,53,Perry Wuckert,46400.0
+1.64,Estagiário,PR,58,Rutha Mraz,21500.0
+1.62,Analista de Dados,BA,20,Jesse Hoeger,3500.0
+1.68,Cientista de Dados,PA,23,Blanch Bosco,3700.0
+1.7,Cientista de Dados,ES,51,King Mante,12800.0
+1.65,Analista de Dados,BA,21,Aubrey Runolfsdottir,3700.0
+1.74,Diretor,SP,45,Sherill Lang,60700.0
+1.75,Analista de Dados,BA,35,Irmgard Deckow,5700.0
+1.77,Cientista de Dados,PA,18,Oren Carroll,4200.0
+1.66,Analista de Dados,PR,58,Jon Stracke,22000.0
+1.63,Cientista de Dados,SP,27,Randall West,5700.0
+1.64,Estagiário,PR,40,Leandra Wilderman,10200.0
+1.66,Cientista de Dados,SP,28,Antony Hoeger,6000.0
+1.72,Analista de Dados,PR,36,Carmine Thompson,11300.0
+1.72,Analista de Dados,PR,18,Drew Schamberger,3600.0
+1.78,Gerente,PR,27,Vergie Treutel,11300.0
+1.71,Gerente,PR,35,Zita Walter,12200.0
+1.61,Gerente,ES,50,Gregory Green,16800.0
+1.69,Analista de Dados,RJ,39,Apryl Hamill,12900.0
+1.69,Cientista de Dados,SP,31,Jacques Toy,6100.0
+1.8,Cientista de Dados,PR,32,Harland Bogan,5400.0
+1.62,Cientista de Dados,SP,51,Natashia Jaskolski,25000.0
+1.72,Cientista de Dados,ES,45,Merissa Pollich,11200.0
+1.73,Cientista de Dados,PR,42,Harley Wintheiser,7300.0
+1.74,Gerente,ES,39,Emmy Metz,16900.0
+1.67,Gerente,RJ,48,Demetrius Schroeder,27600.0
+1.72,Analista de Dados,ES,47,Arnold Schmidt,24400.0
+1.74,Cientista de Dados,SP,58,Tyler Mraz,13400.0
+1.75,Analista de Dados,BA,43,Beula Hammes,11400.0
+1.65,Analista de Dados,BA,34,Bryan Hintz,5800.0
+1.67,Cientista de Dados,ES,26,Chadwick Heidenreich,5400.0
+1.61,Analista de Dados,RJ,37,Howard Grant,6100.0
+1.67,Cientista de Dados,ES,36,Neil Schmeler,8900.0
+1.68,Cientista de Dados,PA,31,Georgine Predovic,6700.0
+1.79,Analista de Dados,PA,47,Devin Kub,20200.0
+1.76,Analista de Dados,PA,18,Tori Williamson,3500.0
+1.78,Cientista de Dados,PA,40,Jacques Beer,13000.0
+1.59,Cientista de Dados,ES,40,Chong Barrows,7500.0
+1.63,Analista de Dados,PR,45,Jewel Boyer,13300.0
+1.74,Gerente,RJ,56,Peter Swaniawski,28100.0
+1.68,Cientista de Dados,BA,24,Jonna Carroll,4600.0
+1.64,Gerente,RJ,53,Chet Bruen,31000.0
+1.67,Analista de Dados,PR,24,Rickie Boyer,4400.0
+1.79,Cientista de Dados,SP,35,Janae Ritchie,5900.0
+1.78,Gerente,RJ,18,Heike Prohaska,11400.0
+1.63,Analista de Dados,SP,56,Stanley Beatty,18700.0
+1.62,Analista de Dados,ES,23,Kyle Brekke,3700.0
+1.7,Gerente,BA,31,Kurt Hane,16000.0
+1.77,Estagiário,ES,32,Elodia Cassin,3000.0
+1.66,Analista de Dados,SP,32,Newton Fahey,5100.0
+1.73,Cientista de Dados,BA,19,Shawn Pacocha,3800.0
+1.68,Analista de Dados,BA,57,Bruno Schultz,23000.0
+1.64,Gerente,PR,37,Garnett Hane,14500.0
+1.67,Cientista de Dados,RJ,22,Kyoko Bashirian,4400.0
+1.74,Cientista de Dados,PA,46,Jessie Crist,18600.0
+1.68,Analista de Dados,ES,22,Victoria Paucek,4100.0
+1.79,Estagiário,PR,56,Landon Jenkins,23900.0
+1.74,Cientista de Dados,BA,29,Howard Beer,6100.0
+1.71,Cientista de Dados,PR,45,Brittny Hagenes,22500.0
+1.63,Cientista de Dados,RJ,37,Melania Conroy,8500.0
+1.7,Analista de Dados,PA,45,Zack Brekke,20500.0
+1.68,Cientista de Dados,PA,24,Tilda Stokes,4800.0
+1.64,Cientista de Dados,SP,36,Hobert Schaden,5900.0
+1.61,Cientista de Dados,PR,49,Tawanna Marquardt,16300.0
+1.79,Analista de Dados,PR,26,Darnell Reilly,3400.0
+1.64,Analista de Dados,PA,28,Neva Dickens,4600.0
+1.6,Cientista de Dados,PR,39,Hanna Satterfield,6900.0
+1.75,Gerente,BA,30,Margarito Rosenbaum,13700.0
+1.69,Analista de Dados,PA,57,Margarito Daugherty,37900.0
+1.74,Analista de Dados,ES,56,Paul Yost,17600.0
+1.69,Cientista de Dados,RJ,35,Tracy Hermiston,5800.0
+1.66,Analista de Dados,ES,34,Fermin Leannon,8900.0
+1.66,Analista de Dados,PR,18,Loura Pouros,3600.0
+1.6,Gerente,BA,45,Tamela Jacobs,27400.0
+1.66,Cientista de Dados,BA,21,Denisse Senger,4300.0
+1.69,Analista de Dados,BA,56,Edward Roob,11200.0
+1.75,Estagiário,ES,20,Brook Pfannerstill,1600.0
+1.7,Head,PR,52,Agripina Fisher,24900.0
+1.7,Estagiário,BA,54,Colene Terry,29400.0
+1.68,Cientista de Dados,ES,28,Frankie Keeling,4600.0
+1.65,Cientista de Dados,PA,50,Enoch Rice,18400.0
+1.65,Gerente,BA,47,Steve Grimes,23400.0
+1.67,Analista de Dados,PR,30,Cortez Cassin,7500.0
+1.8,Analista de Dados,PR,26,Sylvie Franecki,4800.0
+1.69,Cientista de Dados,ES,57,Joshua Reinger,18700.0
+1.81,Estagiário,BA,43,Wendy Osinski,13400.0
+1.65,Cientista de Dados,BA,37,Jake Kshlerin,11400.0
+1.68,Analista de Dados,SP,50,Raphael Altenwerth,18500.0
+1.62,Gerente,SP,18,Armand Ryan,11300.0
+1.6,Analista de Dados,BA,25,Branda Rippin,4200.0
+1.7,Cientista de Dados,RJ,56,Makeda Grimes,28500.0
+1.74,Cientista de Dados,RJ,30,Rudolf Harvey,4800.0
+1.7,Cientista de Dados,ES,30,Gerald Hahn,7200.0
+1.68,Gerente,ES,56,Wayne Mante,35000.0
+1.73,Cientista de Dados,PR,55,Abbey Abbott,18600.0
+1.82,Estagiário,RJ,22,Ernestine Hodkiewicz,1800.0
+1.72,Head,RJ,19,Britt Senger,17700.0
+1.62,Estagiário,SP,50,Sid Toy,19400.0
+1.73,Analista de Dados,PR,57,Guadalupe King,28300.0
+1.61,Analista de Dados,SP,29,Russell Jakubowski,6300.0
+1.77,Cientista de Dados,PR,40,Kandi Mitchell,8400.0
+1.84,Analista de Dados,PA,43,Earl Schamberger,9700.0
+1.64,Cientista de Dados,PR,45,Derek Russel,20300.0
+1.67,Estagiário,SP,50,Sharita Hilpert,7100.0
+1.63,Head,ES,20,Youlanda O'Reilly,18200.0
+1.67,Analista de Dados,BA,41,Nohemi Daugherty,14000.0
+1.7,Cientista de Dados,PR,56,Clay Emmerich,13300.0
+1.67,Cientista de Dados,BA,31,Cheree McDermott,8000.0
+1.62,Analista de Dados,SP,55,Gail Schuppe,21900.0
+1.62,Diretor,BA,40,Zelda Hartmann,49300.0
+1.72,Head,ES,37,Clay Morar,31600.0
+1.63,Cientista de Dados,ES,37,Tyrell Conroy,10600.0
+1.7,Analista de Dados,PA,56,Rico Mohr,40400.0
+1.75,Analista de Dados,PA,44,Kristal Vandervort,16800.0
+1.74,Analista de Dados,SP,22,Isreal Konopelski,3300.0
+1.59,Gerente,ES,38,Willia Volkman,13700.0
+1.66,Analista de Dados,ES,37,Lelia Brown,5800.0
+1.64,Cientista de Dados,RJ,24,Shawanda Orn,4200.0
+1.69,Cientista de Dados,BA,18,Reyna Schneider,4100.0
+1.74,Gerente,BA,33,Kanisha Olson,8800.0
+1.69,Cientista de Dados,ES,21,Michael Daniel,5200.0
+1.66,Cientista de Dados,ES,37,Kirstie Klein,10400.0
+1.67,Cientista de Dados,RJ,52,Clarence Turcotte,32300.0
+1.7,Analista de Dados,PR,43,Errol Wisozk,9300.0
+1.72,Cientista de Dados,SP,34,Pricilla Weber,7100.0
+1.71,Estagiário,SP,43,Stacia Rolfson,8100.0
+1.65,Analista de Dados,PR,39,Mauro King,11200.0
+1.74,Analista de Dados,PA,45,Stanford Ratke,20400.0
+1.64,Head,SP,40,Wendy Roob,25600.0
+1.71,Gerente,ES,54,Chong Legros,21500.0
+1.71,Head,RJ,20,Johnson Kuvalis,20500.0
+1.79,Gerente,PA,49,Genevieve Stanton,21100.0
+1.72,Cientista de Dados,RJ,44,Hayden Hahn,16200.0
+1.75,Gerente,RJ,54,Gary Gerhold,29500.0
+1.78,Analista de Dados,BA,33,Lamar Parker,7800.0
+1.83,Cientista de Dados,SP,44,Lula Schimmel,14900.0
+1.69,Gerente,BA,27,Cole Koss,13300.0
+1.63,Gerente,SP,29,Sebrina Nicolas,13900.0
+1.65,Head,ES,45,Truman Hartmann,33800.0
+1.72,Cientista de Dados,SP,22,Tuan Leannon,4500.0
+1.76,Analista de Dados,PR,24,Mariann Langosh,4200.0
+1.72,Cientista de Dados,PR,40,Enid Stamm,12900.0
+1.74,Analista de Dados,PA,44,Jaime Predovic,11500.0
+1.7,Estagiário,PR,42,Isaiah Williamson,10400.0
+1.72,Estagiário,PA,28,Mariela Abernathy,2000.0
+1.62,Cientista de Dados,PR,30,Allyson Hills,5200.0
+1.68,Head,PA,27,Setsuko Heidenreich,22900.0
+1.69,Cientista de Dados,SP,22,Valentine Stokes,3300.0
+1.63,Analista de Dados,ES,29,Ernesto Nolan,5000.0
+1.67,Cientista de Dados,SP,19,Tayna Volkman,4200.0
+1.64,Estagiário,ES,45,Bula Welch,6600.0
+1.63,Cientista de Dados,BA,57,Rodolfo Bednar,27800.0
+1.73,Gerente,SP,22,Sigrid Padberg,11300.0
+1.61,Analista de Dados,PR,57,Desire Spinka,19300.0
+1.64,Head,ES,30,Mina Kreiger,25900.0
+1.66,Analista de Dados,SP,49,Neta Jacobson,10200.0
+1.75,Analista de Dados,PA,24,Freeda Schneider,3200.0
+1.78,Diretor,SP,21,Johnsie Schumm,46300.0
+1.8,Cientista de Dados,PA,43,Henrietta Stehr,10600.0
+1.77,Analista de Dados,PA,42,Bernard Wolff,7800.0
+1.68,Cientista de Dados,PA,46,Shirley Gusikowski,21400.0
+1.63,Cientista de Dados,RJ,38,Theresa Rogahn,11000.0
+1.67,Estagiário,SP,39,Nidia Schuppe,7900.0
+1.62,Gerente,BA,50,Hanna Bauch,36400.0
+1.69,Cientista de Dados,ES,30,Lane Braun,5000.0
+1.71,Estagiário,PA,53,Willetta Ebert,32100.0
+1.73,Gerente,PR,46,Tyree Ward,25300.0
+1.61,Cientista de Dados,PR,57,Luz Hilll,18300.0
+1.61,Gerente,PR,36,Issac Doyle,14100.0
+1.67,Head,RJ,35,Dallas Wunsch,25200.0
+1.66,Gerente,RJ,42,Randall Bauch,15000.0
+1.68,Analista de Dados,SP,53,Angelique Stark,28200.0
+1.81,Analista de Dados,BA,27,Alaina Jerde,3700.0
+1.66,Head,BA,51,German Ferry,27000.0
+1.66,Cientista de Dados,RJ,49,Adell Parker,16000.0
+1.66,Head,RJ,33,Gwenn Mayer,20800.0
+1.66,Cientista de Dados,RJ,57,Emmy Hudson,37300.0
+1.67,Analista de Dados,PR,18,Jeromy Romaguera,3200.0
+1.75,Analista de Dados,BA,36,Erasmo Metz,6900.0
+1.65,Cientista de Dados,RJ,44,Annice Schultz,9000.0
+1.68,Gerente,SP,24,Hipolito Trantow,10300.0
+1.65,Estagiário,PA,51,Cathrine Kuhic,18900.0
+1.6,Diretor,RJ,36,Shin Fadel,45700.0
+1.62,Cientista de Dados,PR,52,Cody Heidenreich,26700.0
+1.72,Cientista de Dados,BA,36,Lionel Kub,9400.0
+1.63,Cientista de Dados,BA,36,Almeta Gottlieb,6400.0
+1.62,Analista de Dados,BA,22,Ervin Jones,3500.0
+1.63,Head,PR,25,Van Reinger,22500.0
+1.65,Analista de Dados,ES,55,Kendrick Kessler,36300.0
+1.81,Gerente,SP,53,Willie Cole,36300.0
+1.71,Cientista de Dados,RJ,42,Mikel Jacobson,13800.0
+1.66,Estagiário,PA,21,Merry Goldner,1600.0
+1.78,Analista de Dados,SP,35,Fausto Flatley,6200.0
+1.7,Gerente,SP,44,Delicia Smith,16100.0
+1.83,Analista de Dados,PA,48,Howard Mraz,9600.0
+1.66,Head,SP,18,Janine O'Hara,18600.0
+1.77,Cientista de Dados,PR,37,Renato Gottlieb,9900.0
+1.73,Cientista de Dados,RJ,44,Winnifred Weber,11700.0
+1.66,Analista de Dados,PA,30,Elizbeth Waters,5700.0
+1.64,Head,ES,42,Keven Weissnat,31800.0
+1.68,Analista de Dados,PA,18,Claud Runolfsdottir,3200.0
+1.73,Analista de Dados,PA,30,Clotilde Renner,5900.0
+1.78,Head,SP,28,Lawanda Cummerata,21800.0
+1.69,Estagiário,BA,52,Denny Wolf,13600.0
+1.75,Head,PA,48,Britt Strosin,28200.0
+1.64,Gerente,PR,27,Lyndia Ankunding,13900.0
+1.67,Cientista de Dados,BA,55,Argentina King,33700.0
+1.73,Analista de Dados,ES,55,Alvin McCullough,31800.0
+1.75,Cientista de Dados,PR,20,Emilio Wolf,4300.0
+1.66,Analista de Dados,RJ,54,Barton Lueilwitz,29800.0
+1.65,Cientista de Dados,PA,48,Jama Hegmann,23600.0
+1.8,Analista de Dados,ES,50,Dale Connelly,25200.0
+1.62,Cientista de Dados,PA,23,Cammy McClure,3900.0
+1.75,Cientista de Dados,ES,54,Dionne Kovacek,17200.0
+1.66,Analista de Dados,PA,45,Monte Bins,16500.0
+1.63,Cientista de Dados,RJ,39,Willette Mayert,6500.0
+1.64,Analista de Dados,SP,53,Cleotilde Fahey,31000.0
+1.8,Analista de Dados,RJ,22,Maxine Hahn,3500.0
+1.7,Cientista de Dados,BA,18,Abel Berge,3300.0
+1.66,Gerente,PA,23,Tennie Jast,12400.0
+1.72,Analista de Dados,ES,36,Fred Koss,11700.0
+1.61,Analista de Dados,PR,19,Serina Russel,3200.0
+1.68,Cientista de Dados,PA,54,Latarsha Torp,21500.0
+1.79,Gerente,BA,52,Reed Weber,30500.0
+1.76,Gerente,RJ,26,Jordon Pouros,10200.0
+1.74,Cientista de Dados,PA,57,Gabrielle Dietrich,33000.0
+1.72,Analista de Dados,SP,58,Wes Muller,26600.0
+1.73,Analista de Dados,ES,36,Pete Reichert,5700.0
+1.63,Analista de Dados,ES,24,Dana Windler,4300.0
+1.8,Cientista de Dados,ES,26,Dennis Deckow,5300.0
+1.61,Cientista de Dados,BA,22,Hipolito Nitzsche,4900.0
+1.78,Estagiário,SP,53,Seymour Langosh,17500.0
+1.62,Head,SP,29,Cody Anderson,22400.0
+1.68,Analista de Dados,RJ,49,Roslyn Schaefer,18000.0
+1.73,Analista de Dados,PA,37,Lou Dickens,7700.0
+1.74,Analista de Dados,SP,51,Winfred Upton,12500.0
+1.8,Cientista de Dados,RJ,20,Gwen O'Hara,4500.0
+1.61,Cientista de Dados,PR,26,Rocio Weimann,4900.0
+1.67,Gerente,RJ,45,Pedro Senger,22200.0
+1.79,Cientista de Dados,PA,53,Andre Legros,16000.0
+1.73,Gerente,SP,20,Jeffry Tillman,9600.0
+1.75,Analista de Dados,PA,44,Ardith Stamm,7800.0
+1.66,Estagiário,PA,32,Renato Bins,3100.0
+1.75,Head,BA,36,Alexis Bashirian,19800.0
+1.66,Analista de Dados,PR,19,Olga Kutch,3800.0
+1.67,Cientista de Dados,PR,38,Angelica Olson,13300.0
+1.66,Cientista de Dados,PA,47,Domonique Carroll,23600.0
+1.81,Cientista de Dados,ES,36,Michaele Klocko,5600.0
+1.57,Head,ES,53,Mike Gleason,23700.0
+1.66,Cientista de Dados,ES,49,Donnie Kessler,16600.0
+1.69,Cientista de Dados,PR,20,Irvin Christiansen,4000.0
+1.61,Analista de Dados,BA,55,Travis Bergstrom,21600.0
+1.73,Analista de Dados,PA,31,Lyla Hessel,5600.0
+1.64,Cientista de Dados,ES,18,Jerald Johns,4600.0
+1.75,Analista de Dados,RJ,45,Donette Sipes,9800.0
+1.73,Estagiário,PR,39,Lorie Terry,10500.0
+1.67,Gerente,BA,50,Lurlene Bode,20400.0
+1.64,Gerente,RJ,25,Minnie Mayert,12200.0
+1.73,Analista de Dados,BA,52,Ted Bruen,24400.0
+1.65,Gerente,PA,30,Jarrett Fritsch,11700.0
+1.79,Gerente,SP,23,Noelle Herman,10300.0
+1.65,Cientista de Dados,SP,23,Patrick Johnston,4400.0
+1.68,Cientista de Dados,RJ,36,Kiley Altenwerth,7200.0
+1.61,Estagiário,PR,19,Ezra Halvorson,1400.0
+1.8,Gerente,RJ,32,Peggy Klocko,14200.0
+1.68,Cientista de Dados,RJ,34,Joann Block,9000.0
+1.77,Gerente,PA,26,Margarita Vandervort,11800.0
+1.72,Estagiário,PA,40,Rina Hilll,6800.0
+1.65,Analista de Dados,RJ,42,Robin Klein,12700.0
+1.71,Head,BA,46,Tiffaney Bartoletti,40400.0
+1.75,Gerente,PR,38,Rosina Welch,16300.0
+1.71,Estagiário,SP,56,Rico Bailey,26000.0
+1.62,Analista de Dados,BA,54,Celsa Bartoletti,28200.0
+1.7,Analista de Dados,ES,54,Joetta Haley,12800.0
+1.76,Analista de Dados,SP,58,Donny Runte,42100.0
+1.86,Cientista de Dados,RJ,30,Deborah Sauer,6900.0
+1.76,Estagiário,SP,42,Major Murray,6400.0
+1.67,Gerente,PA,52,Stacey Rosenbaum,36700.0
+1.75,Head,SP,50,Claretta Considine,41100.0
+1.71,Cientista de Dados,RJ,49,Cara Wuckert,16500.0
+1.79,Analista de Dados,PA,51,Oswaldo Donnelly,16200.0
+1.65,Estagiário,BA,26,Erwin Bernhard,2300.0
+1.74,Cientista de Dados,SP,38,Chet Skiles,7200.0
+1.77,Cientista de Dados,RJ,18,Abram Mitchell,3200.0
+1.78,Gerente,RJ,47,Leland VonRueden,23800.0
+1.82,Head,ES,52,Rufus Murphy,30600.0
+1.74,Head,PR,35,Dexter Leffler,23400.0
+1.78,Analista de Dados,SP,44,Yuk Parker,16600.0
+1.64,Gerente,PA,44,Reginald Pacocha,23700.0
+1.84,Analista de Dados,PA,34,Trey Streich,8800.0
+1.64,Analista de Dados,PA,18,Adolph Conn,3700.0
+1.82,Estagiário,RJ,58,Wilfredo Brekke,27900.0
+1.79,Cientista de Dados,ES,32,Jackson Heaney,8000.0
+1.81,Cientista de Dados,PA,48,Mckinley Grady,18000.0
+1.75,Analista de Dados,RJ,43,Stanton Swift,15100.0
+1.7,Cientista de Dados,SP,47,Steven Durgan,11100.0
+1.62,Estagiário,RJ,35,Dennise Mitchell,8000.0
+1.63,Gerente,ES,26,Renay Rice,12200.0
+1.75,Head,PA,51,Simon Swift,45100.0
+1.62,Estagiário,RJ,36,Fatima Friesen,5100.0
+1.81,Analista de Dados,PA,51,Corrinne Gutmann,21900.0
+1.65,Gerente,BA,52,Catharine Yundt,29600.0
+1.74,Analista de Dados,SP,28,Dee Crooks,4800.0
+1.65,Cientista de Dados,BA,20,Cornell Hilpert,3700.0
+1.6,Cientista de Dados,SP,35,Lester Howell,9200.0
+1.77,Analista de Dados,BA,48,Jerald Nolan,15300.0
+1.68,Estagiário,SP,44,Nicky Larkin,11300.0
+1.74,Estagiário,RJ,51,Alleen Trantow,14600.0
+1.65,Head,SP,51,Silva Bernhard,44000.0
+1.72,Estagiário,ES,28,Jerome Stanton,3800.0
+1.64,Gerente,ES,36,Juliette Zemlak,12900.0
+1.58,Cientista de Dados,PR,27,Odell Schmeler,4600.0
+1.66,Analista de Dados,PR,53,Elfriede Waters,22500.0
+1.64,Cientista de Dados,BA,55,Phil Jaskolski,15600.0
+1.79,Cientista de Dados,PA,50,Grady Gerhold,16700.0
+1.63,Head,PA,34,Ramiro Lehner,24900.0
+1.74,Analista de Dados,BA,52,Tifany Rippin,11700.0
+1.66,Cientista de Dados,ES,45,Deon Grimes,17300.0
+1.69,Gerente,PA,26,Emilio Renner,11900.0
+1.73,Estagiário,PR,44,Chad Kassulke,6200.0
+1.68,Cientista de Dados,PR,44,Bryant Strosin,10800.0
+1.76,Analista de Dados,BA,53,Ernie Thompson,23100.0
+1.66,Gerente,BA,54,Margot Heathcote,34900.0
+1.66,Cientista de Dados,BA,55,Sherman Bradtke,31400.0
+1.76,Head,SP,38,Paulita Johns,28700.0
+1.7,Gerente,PR,44,Anderson Gibson,21000.0
+1.66,Cientista de Dados,PR,28,Scarlett Monahan,5500.0
+1.66,Analista de Dados,SP,46,Willene Grimes,10800.0
+1.75,Gerente,RJ,44,Kenton Wuckert,14800.0
+1.72,Analista de Dados,PR,29,Vada Tremblay,4900.0
+1.63,Head,ES,33,Kim Kuphal,23400.0
+1.64,Analista de Dados,RJ,28,Corrine Kunde,5100.0
+1.81,Analista de Dados,BA,30,Ilda Abernathy,4300.0
+1.7,Estagiário,PR,44,Chester Pacocha,11000.0
+1.71,Gerente,PA,38,Eloise Johns,16800.0
+1.65,Head,SP,42,Moira Powlowski,25300.0
+1.65,Cientista de Dados,PR,48,Thanh Hand,24600.0
+1.75,Cientista de Dados,PA,27,Jared Mayer,6200.0
+1.82,Gerente,RJ,23,Kasha Wuckert,10800.0
+1.65,Gerente,SP,46,Natalie Lang,27100.0
+1.63,Cientista de Dados,RJ,48,Morris Bailey,22200.0
+1.64,Analista de Dados,ES,50,Belkis Trantow,18900.0
+1.78,Analista de Dados,PA,56,Brett Thiel,40000.0
+1.6,Cientista de Dados,PR,21,Junita Greenholt,3800.0
+1.76,Cientista de Dados,BA,36,Nereida Schmeler,6800.0
+1.77,Analista de Dados,SP,50,Jackelyn Tillman,20600.0
+1.65,Gerente,PR,27,Jude Donnelly,14000.0
+1.67,Cientista de Dados,SP,35,Dennise Jakubowski,5800.0
+1.71,Estagiário,RJ,57,Edythe Hegmann,17600.0
+1.67,Gerente,SP,45,Horace Leannon,21900.0
+1.78,Analista de Dados,BA,34,Darcey Barrows,7600.0
+1.6,Analista de Dados,ES,54,Woodrow Bayer,18900.0
+1.71,Gerente,RJ,45,Evan Ruecker,25800.0
+1.7,Cientista de Dados,ES,46,Emil Wiza,20800.0
+1.61,Estagiário,PR,40,Eldridge Morar,4200.0
+1.82,Estagiário,ES,29,Thanh Gerhold,4100.0
+1.74,Head,PR,19,Rashad Cummings,23100.0
+1.7,Analista de Dados,RJ,29,Mireille Lubowitz,5700.0
+1.75,Analista de Dados,SP,54,Cecily Bednar,19000.0
+1.83,Cientista de Dados,BA,43,Lavonna Cartwright,7700.0
+1.66,Analista de Dados,PR,23,Janel Cummings,3800.0
+1.7,Estagiário,BA,23,Nilda Bins,1600.0
+1.74,Head,RJ,39,Lance Walsh,27800.0
+1.74,Estagiário,PR,58,Lucio Luettgen,28700.0
+1.74,Cientista de Dados,RJ,19,Lucile Lubowitz,4300.0
+1.74,Cientista de Dados,RJ,53,Pasquale Breitenberg,25900.0
+1.66,Cientista de Dados,RJ,28,Cecil Gorczany,5400.0
+1.73,Cientista de Dados,RJ,45,Nestor Schuster,18800.0
+1.63,Cientista de Dados,SP,29,Michal Boyle,5400.0
+1.66,Head,RJ,51,Marcella Kiehn,26900.0
+1.73,Head,ES,24,Hai O'Kon,21700.0
+1.64,Gerente,BA,39,Tracy Friesen,16200.0
+1.61,Cientista de Dados,ES,29,Ruthann Bartoletti,6300.0
+1.64,Head,SP,22,Cordell Bruen,20800.0
+1.7,Gerente,SP,36,Tobias Daugherty,13300.0
+1.71,Cientista de Dados,PR,41,Lesley Jast,8600.0
+1.72,Cientista de Dados,ES,53,Sam Schowalter,13200.0
+1.82,Cientista de Dados,SP,20,Chang Morissette,2800.0
+1.65,Analista de Dados,SP,23,Chadwick Dooley,4000.0
+1.75,Gerente,BA,33,Kari Reynolds,11100.0
+1.78,Head,ES,51,Bertram Ferry,37900.0
+1.63,Cientista de Dados,RJ,32,Karon Boehm,5000.0
+1.76,Gerente,PA,20,Micheal Reilly,10300.0
+1.64,Cientista de Dados,PR,28,Mercy Kuhlman,5400.0
+1.66,Cientista de Dados,BA,20,Humberto Pfeffer,5500.0
+1.8,Cientista de Dados,PR,23,Wilma Schroeder,5000.0
+1.68,Head,RJ,18,Maira Nader,17700.0
+1.7,Cientista de Dados,BA,28,Dale Sawayn,4900.0
+1.62,Estagiário,SP,35,Hung Halvorson,8600.0
+1.65,Gerente,ES,19,Lionel Nolan,10200.0
+1.73,Gerente,PA,52,Stacia Grimes,18700.0
+1.71,Analista de Dados,RJ,53,Elvin Gottlieb,26300.0
+1.68,Gerente,BA,33,Garth Ritchie,14400.0
+1.66,Head,RJ,22,Grisel Hettinger,22100.0
+1.62,Cientista de Dados,ES,26,Ismael Hegmann,5700.0
+1.66,Cientista de Dados,PA,48,Kenia Lakin,19400.0
+1.74,Cientista de Dados,ES,37,Oscar West,6300.0
+1.75,Gerente,PA,46,Timmy Keebler,28700.0
+1.78,Cientista de Dados,PR,43,Carissa Roob,18400.0
+1.72,Gerente,SP,26,Ona Gusikowski,13500.0
+1.61,Analista de Dados,BA,22,Wesley Rath,3900.0
+1.64,Gerente,SP,19,Crystal McLaughlin,11400.0
+1.64,Analista de Dados,BA,52,Gale Erdman,22100.0
+1.67,Analista de Dados,PR,40,Keesha Weissnat,10200.0
+1.62,Estagiário,SP,36,Calvin Zboncak,5600.0
+1.7,Gerente,PA,55,Karoline Connelly,27100.0
+1.66,Analista de Dados,PR,28,Melania Lowe,5000.0
+1.65,Analista de Dados,RJ,39,Roland King,9400.0
+1.64,Gerente,RJ,20,Danilo Kerluke,10200.0
+1.64,Estagiário,PR,57,Carmelia Bashirian,25800.0
+1.64,Analista de Dados,SP,34,Sharon Senger,6900.0
+1.57,Cientista de Dados,RJ,35,Virgil Crooks,9500.0
+1.65,Estagiário,SP,48,Leslie Hahn,7800.0
+1.62,Cientista de Dados,RJ,50,Josiah Ebert,9600.0
+1.63,Cientista de Dados,BA,34,Carlos Klein,10400.0
+1.82,Gerente,SP,25,Chong Nader,12300.0
+1.65,Analista de Dados,RJ,40,Stacey Block,7800.0
+1.62,Gerente,BA,27,Kristopher Ward,12100.0
+1.61,Head,SP,32,Ezequiel Labadie,23100.0
+1.69,Cientista de Dados,BA,51,Christin Upton,12500.0
+1.71,Analista de Dados,RJ,58,Freeman Stiedemann,33000.0
+1.65,Estagiário,PR,43,Laila Emmerich,5600.0
+1.79,Analista de Dados,BA,39,Annie Runolfsdottir,13500.0
+1.78,Analista de Dados,PA,29,Chantal Kub,4600.0
+1.63,Gerente,RJ,35,Roseanne Mitchell,16600.0
+1.66,Head,PR,30,Sol Hessel,25500.0
+1.67,Analista de Dados,PR,42,Thanh Jast,14900.0
+1.75,Analista de Dados,RJ,42,Elnora Fahey,8700.0
+1.68,Analista de Dados,SP,20,Frederick Purdy,3600.0
+1.61,Estagiário,PR,40,Rex Bergstrom,6600.0
+1.69,Cientista de Dados,SP,19,Annemarie Durgan,4500.0
+1.76,Analista de Dados,PR,33,Lucrecia Bergnaum,5200.0
+1.74,Cientista de Dados,ES,53,Carlo Collins,31200.0
+1.73,Head,RJ,44,Johnathan O'Kon,26700.0
+1.72,Cientista de Dados,RJ,20,Everett Borer,4200.0
+1.69,Cientista de Dados,ES,54,Alvaro Cartwright,10400.0
+1.61,Cientista de Dados,PR,23,Randal Johnson,4300.0
+1.76,Gerente,BA,31,Crista Lockman,11600.0
+1.66,Cientista de Dados,ES,57,Marvin McDermott,23700.0
+1.83,Cientista de Dados,RJ,55,Collin Kuhn,31400.0
+1.71,Cientista de Dados,BA,58,Bennie Kerluke,16200.0
+1.66,Cientista de Dados,SP,40,Michelle Kautzer,10600.0
+1.78,Analista de Dados,BA,45,Erwin Kovacek,7600.0
+1.7,Gerente,BA,21,Verna Cummings,11100.0
+1.65,Cientista de Dados,SP,44,Trinh Gottlieb,10700.0
+1.76,Analista de Dados,PR,22,Harley McCullough,4400.0
+1.69,Analista de Dados,BA,23,Edwardo Bruen,3600.0
+1.68,Gerente,ES,29,Charlie Mertz,12300.0
+1.72,Analista de Dados,BA,31,Melvin Raynor,5600.0
+1.75,Analista de Dados,RJ,27,Josiah Kertzmann,4300.0
+1.65,Analista de Dados,ES,39,Kenneth Orn,13400.0
+1.61,Analista de Dados,PR,24,Alyse Funk,4200.0
+1.71,Head,BA,28,Jason Smitham,20000.0
+1.64,Cientista de Dados,ES,33,Jay Jacobson,8200.0
+1.62,Analista de Dados,PR,27,Isaias Carter,4300.0
+1.65,Analista de Dados,SP,21,Oscar Friesen,3600.0
+1.64,Analista de Dados,PA,19,Missy Goodwin,3500.0
+1.76,Analista de Dados,PR,38,Thu Mayert,12400.0
+1.63,Gerente,RJ,43,Andre Wisoky,19500.0
+1.8,Estagiário,RJ,36,Coleman Waters,7200.0
+1.79,Gerente,PR,25,Kraig Lynch,10800.0
+1.62,Estagiário,ES,35,Marc Cruickshank,2900.0
+1.67,Cientista de Dados,PR,21,Keila Langworth,3500.0
+1.6,Cientista de Dados,ES,45,Frederick Larson,12200.0
+1.65,Analista de Dados,PR,46,Brynn Quigley,9800.0
+1.71,Diretor,SP,23,Emery Nitzsche,44600.0
+1.59,Head,SP,38,Micah Frami,25700.0
+1.67,Gerente,ES,39,Winford Wiegand,14400.0
+1.76,Head,PR,20,Xochitl Kassulke,22500.0
+1.65,Cientista de Dados,ES,21,Kurtis Torp,4400.0
