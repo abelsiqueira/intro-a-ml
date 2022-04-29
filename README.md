@@ -2,7 +2,7 @@
 
 Material dos vídeos da minha [playlist](https://www.youtube.com/playlist?list=PLOOY0eChA1ux4hJ_aIA2IiUYkLOSYDQDY).
 
-## Ordem dos vídeos
+## Teoria, conceitos e explicações
 
 - 01 [Conceitos Básicos](explicação/introdução.jl)
 - 02 [Regressão Linear, Polinomial](explicação/regressao-linear-e-polinomial.jl), e [Múltipla](explicação/regressao-multipla.jl)
@@ -19,3 +19,7 @@ Material dos vídeos da minha [playlist](https://www.youtube.com/playlist?list=P
 - 13 [Otimização de Hiperparâmetros](explicação/hiperparametros.jl)
 - 14 [Redes Neurais](explicação/redes-neurais.jl)
 - 15 [Gradiente Estocástico](explicação/gradiente-estocastico.jl)
+
+## Pacotes de Julia
+
+- 16 [StatsModels.jl](julia/statsmodels.jl)
