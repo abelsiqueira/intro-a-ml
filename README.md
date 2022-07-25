@@ -22,5 +22,5 @@ Material dos vídeos da minha [playlist](https://www.youtube.com/playlist?list=P
 
 ## Pacotes de Julia
 
-- 16 [StatsModels.jl](julia/statsmodels.jl)
-- 17-20 [MLJ.jl](julia/mlj.jl)
+- 1 [StatsModels.jl](julia/statsmodels.jl)
+- 2-5 [MLJ.jl](julia/mlj.jl)
