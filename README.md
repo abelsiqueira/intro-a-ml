@@ -19,6 +19,7 @@ Material dos vídeos da minha [playlist](https://www.youtube.com/playlist?list=P
 - 13 [Otimização de Hiperparâmetros](explicação/hiperparametros.jl)
 - 14 [Redes Neurais](explicação/redes-neurais.jl)
 - 15 [Gradiente Estocástico](explicação/gradiente-estocastico.jl)
+- 16 [K-Means e Silhueta](explicação/kmeans.jl)
 
 ## Pacotes de Julia
 
